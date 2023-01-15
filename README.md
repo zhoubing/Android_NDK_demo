@@ -31,3 +31,7 @@ https://blog.csdn.net/sinat_31608641/article/details/121712590
 
 https://www.freesion.com/article/70371249228/
 https://zhuanlan.zhihu.com/p/206740057
+
+
+#### 如何引用第三方非标准so
+https://blog.csdn.net/qq_27061049/article/details/107884312
