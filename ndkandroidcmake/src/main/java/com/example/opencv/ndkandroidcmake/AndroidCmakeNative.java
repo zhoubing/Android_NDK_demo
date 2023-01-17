@@ -7,12 +7,15 @@ public class AndroidCmakeNative {
     }
 
     public AndroidCmakeNative() {
-        getStringByCallBack(this);
+//        getStringByCallBack();
+        getStringByCallback1(this);
     }
 
     public native String getString();
 
-    public native String getStringByCallBack(Object thiz);
+    public native String getStringByCallBack();
+
+    public native String getStringByCallback1(Object thiz);
 
     public String onProgressChange(String msg) {
         System.out.println(msg);
